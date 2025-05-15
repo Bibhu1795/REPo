@@ -2,6 +2,6 @@ unit testing
 integration testing 
 system testing
 smoke testing
-regression testing
+regression tes
 sanity testing
-Uat testing
+Uat test
